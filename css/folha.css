@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.folha-pdf {
+  width: 21cm;
+  height: 42cm;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  padding: 3cm 2cm 2cm 3cm;
+  line-height: 1.5;
+}
+
+.titulo1 {
+  font-size: 12pt;
+  padding-bottom: 1.5;
+  text-align: center;
+}
+
+.titulo2 {
+  font-size: 12pt;
+  padding-top: 1.5;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.p-simples {
+  line-height: 1.5;
+  font-size: 12pt;
+  text-indent: 1cm;
+  text-align: justify;
+}
+
+.p-referencia {
+  line-height: 1.5;
+  font-size: 12pt;
+  text-indent: 0cm;
+  text-align: justify;
+}
